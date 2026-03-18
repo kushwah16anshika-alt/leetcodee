@@ -25,6 +25,7 @@
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -46,6 +47,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -56,6 +58,7 @@
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
 | ------- |
