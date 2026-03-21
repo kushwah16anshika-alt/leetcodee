@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
@@ -62,6 +63,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +99,8 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
