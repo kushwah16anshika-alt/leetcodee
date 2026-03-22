@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -103,6 +104,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
