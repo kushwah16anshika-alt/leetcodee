@@ -62,6 +62,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
