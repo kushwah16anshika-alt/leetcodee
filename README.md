@@ -48,12 +48,14 @@
 | [0225-implement-stack-using-queues](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 ## String
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 ## Ordered Set
 |  |
 | ------- |
