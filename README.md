@@ -6,6 +6,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0092-reverse-linked-list-ii) |
+| [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -50,6 +52,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
@@ -85,6 +88,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
