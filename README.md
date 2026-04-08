@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
@@ -117,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
