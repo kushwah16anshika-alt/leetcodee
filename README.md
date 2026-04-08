@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
