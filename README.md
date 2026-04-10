@@ -139,11 +139,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
@@ -181,4 +183,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
