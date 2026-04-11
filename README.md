@@ -145,6 +145,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
