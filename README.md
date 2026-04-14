@@ -59,6 +59,7 @@
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -105,6 +107,7 @@
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 ## Hash Table
 |  |
