@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
@@ -28,6 +29,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
@@ -95,6 +97,7 @@
 | [0016-3sum-closest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
@@ -129,6 +132,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
@@ -149,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 ## Math
