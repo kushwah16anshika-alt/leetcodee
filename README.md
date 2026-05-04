@@ -102,6 +102,7 @@
 | [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
@@ -169,6 +170,7 @@
 | [0007-reverse-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
@@ -262,4 +264,8 @@
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
