@@ -246,6 +246,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
