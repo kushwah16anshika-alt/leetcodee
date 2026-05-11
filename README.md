@@ -122,6 +122,7 @@
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 ## Hash Table
@@ -294,4 +295,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
+| [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
