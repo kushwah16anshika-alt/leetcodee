@@ -251,6 +251,7 @@
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -267,6 +268,7 @@
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -284,6 +286,7 @@
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -293,6 +296,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
