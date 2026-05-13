@@ -55,6 +55,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -271,6 +274,7 @@
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -290,6 +294,7 @@
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -301,6 +306,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
 |  |
 | ------- |
