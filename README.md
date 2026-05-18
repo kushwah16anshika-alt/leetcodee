@@ -83,6 +83,7 @@
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
 | [1154-day-of-the-year](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1154-day-of-the-year) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 ## Simulation
@@ -187,6 +188,7 @@
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [1154-day-of-the-year](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1154-day-of-the-year) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Binary Search
 |  |
 | ------- |
