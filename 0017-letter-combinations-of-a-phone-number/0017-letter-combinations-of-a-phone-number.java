@@ -32,7 +32,7 @@ class Solution
             result.add(temp.toString());
             return;
         }
-        //curr digi
+      
         char ch = digits.charAt(idx);
         String str=map.get(ch);
 
