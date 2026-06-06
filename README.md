@@ -116,6 +116,7 @@
 | [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -231,6 +233,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
