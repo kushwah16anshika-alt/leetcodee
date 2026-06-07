@@ -82,6 +82,7 @@
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0065-valid-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0344-reverse-string) |
@@ -100,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
@@ -209,6 +211,7 @@
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
