@@ -81,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0151-reverse-words-in-a-string) |
