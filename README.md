@@ -34,6 +34,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -153,6 +155,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 ## Hash Table
 |  |
