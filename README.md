@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
