@@ -129,6 +129,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -285,6 +286,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 ## Backtracking
