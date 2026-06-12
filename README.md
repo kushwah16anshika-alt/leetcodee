@@ -153,6 +153,7 @@
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
@@ -253,6 +254,7 @@
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
+| [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
