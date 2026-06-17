@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
@@ -97,6 +98,7 @@
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -235,6 +237,7 @@
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
