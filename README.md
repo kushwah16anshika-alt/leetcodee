@@ -86,6 +86,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0065-valid-number) |
@@ -182,6 +183,7 @@
 | [0001-two-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
