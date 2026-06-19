@@ -68,6 +68,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -160,6 +161,7 @@
 | [0274-h-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
@@ -194,6 +196,7 @@
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
@@ -259,6 +262,7 @@
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1154-day-of-the-year) |
@@ -438,4 +442,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
