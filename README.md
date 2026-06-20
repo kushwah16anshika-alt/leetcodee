@@ -96,6 +96,7 @@
 | [0058-length-of-last-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
@@ -144,6 +146,7 @@
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
