@@ -100,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
@@ -199,6 +200,7 @@
 | [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
