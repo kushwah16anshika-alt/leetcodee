@@ -102,6 +102,7 @@
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
@@ -203,6 +204,7 @@
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
