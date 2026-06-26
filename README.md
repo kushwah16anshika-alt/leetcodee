@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
@@ -12,6 +13,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
@@ -272,6 +274,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
