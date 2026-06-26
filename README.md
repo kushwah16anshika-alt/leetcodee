@@ -6,6 +6,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -209,6 +210,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
