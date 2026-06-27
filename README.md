@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
 ## Two Pointers
