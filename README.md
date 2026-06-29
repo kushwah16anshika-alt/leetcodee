@@ -11,6 +11,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0146-lru-cache) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -76,6 +77,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
@@ -219,6 +221,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
@@ -491,4 +494,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
