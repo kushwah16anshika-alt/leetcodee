@@ -280,6 +280,7 @@
 | [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -393,6 +394,7 @@
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -417,6 +419,7 @@
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -442,6 +445,7 @@
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
