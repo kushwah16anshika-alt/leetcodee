@@ -436,6 +436,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
@@ -485,6 +486,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
@@ -524,6 +526,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -532,4 +535,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
