@@ -408,6 +408,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
@@ -436,6 +437,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
@@ -468,6 +470,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
@@ -508,6 +511,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## String Matching
 |  |
 | ------- |
