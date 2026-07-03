@@ -16,26 +16,27 @@
 class Solution 
 {
     TreeNode prev=null;
-    public boolean isValidBST(TreeNode root)
+    public boolean isValidBST(TreeNode root) 
     {
         return inorder(root);
     }
-    public boolean inorder(TreeNode node)
+    private boolean inorder(TreeNode root)
     {
-        if(node==null)
+        if(root == null)
         {
-            return true;
+             return true;
         }
-        if(!inorder(node.left))
+        if(!inorder(root.left))
         {
             return false;
         }
-        if(prev!=null && node.val <=prev.val)
+        if(prev!=null&& root.val<=prev.val)
         {
-           return false;
+            return false;
         }
-        prev=node;
+        prev=root;
 
-        return inorder(node.right);
+        return inorder(root.right);
+
     }
 }
