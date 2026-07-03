@@ -1,16 +1,17 @@
-class Solution 
-{
+class Solution {
     public void reverseString(char[] s) 
     {
-        String str = new String(s);
-        StringBuilder sb = new StringBuilder(str);
-        sb.reverse();
+        int left=0;
+        int right=s.length-1;
 
-        char[] arr = sb.toString().toCharArray();
-
-        for(int i = 0; i < s.length; i++)
+        while(left<right)
         {
-            s[i] = arr[i];
+            char temp=s[left];
+            s[left]=s[right];
+            s[right]=temp;
+
+            left++;
+            right--;
         }
     }
 }
