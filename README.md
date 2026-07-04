@@ -22,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
@@ -297,6 +298,7 @@
 | [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0069-sqrtx) |
