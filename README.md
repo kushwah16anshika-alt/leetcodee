@@ -134,6 +134,7 @@
 | [0686-repeated-string-match](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
+| [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
 | [1154-day-of-the-year](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1360-number-of-days-between-two-dates) |
@@ -210,6 +211,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -541,6 +543,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -553,4 +556,5 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
