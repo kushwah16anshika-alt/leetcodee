@@ -100,6 +100,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -206,6 +207,7 @@
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -277,6 +279,7 @@
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
@@ -557,4 +561,8 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
