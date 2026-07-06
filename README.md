@@ -165,6 +165,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0162-find-peak-element) |
