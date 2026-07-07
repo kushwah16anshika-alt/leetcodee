@@ -324,6 +324,7 @@
 | [1323-maximum-69-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1323-maximum-69-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1360-number-of-days-between-two-dates) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
