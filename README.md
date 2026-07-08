@@ -130,6 +130,7 @@
 | [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0686-repeated-string-match) |
