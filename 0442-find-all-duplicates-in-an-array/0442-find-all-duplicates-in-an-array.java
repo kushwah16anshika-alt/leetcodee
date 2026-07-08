@@ -10,7 +10,7 @@ class Solution {
         List<Integer>list=new ArrayList<>();
         for(int key:map.keySet())
         {
-           if(map.get(key)>=2)
+           if(map.get(key)==2)
            {
             list.add(key);
            }
