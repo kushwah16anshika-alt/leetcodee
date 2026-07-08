@@ -152,6 +152,7 @@
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
@@ -209,6 +210,7 @@
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0896-monotonic-array) |
@@ -529,6 +531,7 @@
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search Tree
 |  |
