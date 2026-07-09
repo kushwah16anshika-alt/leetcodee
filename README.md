@@ -185,6 +185,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
@@ -407,6 +408,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0190-reverse-bits) |
