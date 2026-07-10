@@ -474,6 +474,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0872-leaf-similar-trees) |
@@ -527,6 +528,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -582,6 +584,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 ## Monotonic Queue
@@ -593,6 +596,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -602,4 +606,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
