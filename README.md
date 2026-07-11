@@ -181,6 +181,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0134-gas-station) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
@@ -431,6 +433,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -496,6 +499,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -554,6 +558,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## String Matching
