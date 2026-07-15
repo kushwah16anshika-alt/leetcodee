@@ -121,6 +121,7 @@
 | [0065-valid-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
@@ -182,6 +183,7 @@
 | [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0088-merge-sorted-array) |
@@ -434,6 +436,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
@@ -471,6 +474,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
@@ -561,6 +565,7 @@
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1091-shortest-path-in-binary-matrix) |
