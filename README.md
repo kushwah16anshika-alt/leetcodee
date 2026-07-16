@@ -213,6 +213,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
+| [0427-construct-quad-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0427-construct-quad-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
@@ -310,6 +311,7 @@
 | [0191-number-of-1-bits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -463,6 +465,7 @@
 | [0226-invert-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0427-construct-quad-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0623-add-one-row-to-tree) |
@@ -569,6 +572,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0200-number-of-islands) |
+| [0427-construct-quad-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0427-construct-quad-tree) |
 | [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
