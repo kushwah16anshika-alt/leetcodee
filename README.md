@@ -244,6 +244,7 @@
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
@@ -633,6 +634,7 @@
 | [0200-number-of-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -648,6 +650,7 @@
 | [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -681,4 +684,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
