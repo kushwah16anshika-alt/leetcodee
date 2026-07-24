@@ -465,6 +465,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -498,6 +499,7 @@
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -536,6 +538,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
