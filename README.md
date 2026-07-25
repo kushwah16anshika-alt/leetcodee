@@ -214,6 +214,7 @@
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
@@ -339,6 +340,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
@@ -384,6 +386,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
