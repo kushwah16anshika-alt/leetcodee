@@ -126,6 +126,7 @@
 | [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
@@ -198,6 +199,7 @@
 | [0135-candy](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -269,6 +271,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
@@ -343,6 +346,7 @@
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0300-longest-increasing-subsequence) |
@@ -445,6 +449,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -715,4 +720,8 @@
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2097-valid-arrangement-of-pairs) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
