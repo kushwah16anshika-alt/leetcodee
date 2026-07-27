@@ -500,6 +500,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -538,6 +539,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2097-valid-arrangement-of-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2097-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -597,6 +599,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -666,6 +669,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2097-valid-arrangement-of-pairs) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Monotonic Queue
 |  |
 | ------- |
