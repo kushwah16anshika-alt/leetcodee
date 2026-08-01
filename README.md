@@ -187,6 +187,7 @@
 | [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
@@ -347,6 +348,7 @@
 | [0045-jump-game-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -620,6 +622,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
