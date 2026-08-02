@@ -31,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0013-roman-to-integer) |
@@ -344,6 +346,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0045-jump-game-ii) |
