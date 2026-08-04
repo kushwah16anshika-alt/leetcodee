@@ -236,6 +236,7 @@
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0733-flood-fill) |
