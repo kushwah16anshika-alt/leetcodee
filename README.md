@@ -366,6 +366,7 @@
 | [0064-minimum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -497,12 +498,14 @@
 | [0039-combination-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
@@ -581,6 +584,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
@@ -661,6 +665,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
