@@ -93,6 +93,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0933-number-of-recent-calls) |
@@ -230,6 +231,7 @@
 | [0274-h-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
@@ -440,6 +442,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
 | [3904-smallest-stable-index-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
