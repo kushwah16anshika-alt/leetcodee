@@ -264,6 +264,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -446,6 +447,7 @@
 | [0238-product-of-array-except-self](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3904-smallest-stable-index-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
@@ -489,6 +491,7 @@
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
 |  |
