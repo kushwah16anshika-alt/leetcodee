@@ -266,6 +266,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
+| [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
@@ -317,6 +318,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
+| [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -752,6 +754,7 @@
 | [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
+| [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2097-valid-arrangement-of-pairs) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
