@@ -252,6 +252,7 @@
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
@@ -386,6 +387,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -468,6 +470,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 ## Prefix Sum
@@ -505,6 +508,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -806,6 +810,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -849,4 +854,16 @@
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
