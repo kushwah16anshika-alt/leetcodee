@@ -55,6 +55,7 @@
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
+| [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0977-squares-of-a-sorted-array) |
@@ -266,6 +267,7 @@
 | [0733-flood-fill](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
+| [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0896-monotonic-array) |
@@ -367,6 +369,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -496,6 +499,7 @@
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
+| [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
 | [0948-bag-of-tokens](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0948-bag-of-tokens) |
