@@ -872,4 +872,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
