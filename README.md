@@ -260,6 +260,7 @@
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -478,6 +479,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 ## Prefix Sum
