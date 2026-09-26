@@ -288,6 +288,7 @@
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
@@ -482,6 +483,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
+| [1539-kth-missing-positive-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
