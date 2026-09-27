@@ -18,6 +18,7 @@
 | [0148-sort-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0148-sort-list) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
