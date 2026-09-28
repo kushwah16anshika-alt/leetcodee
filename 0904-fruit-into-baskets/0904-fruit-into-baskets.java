@@ -1,34 +1,32 @@
 class Solution {
     public int totalFruit(int[] fruits) {
 
-        int type1 = -1;
-        int type2 = -1;
+        int n = fruits.length;
+        HashMap<Integer, Integer> fruitMap = new HashMap<>();
 
-        int lastCount = 0;
-        int cur = 0;
-        int ans = 0;
+        int i = 0; // Left pointer
+        int j = 0; // Right pointer
+        int count = 0; // Maximum number of fruits collected
 
-        for (int fruit : fruits) {
+        while (j < n) {
+            // Add the fruit at the right pointer to the map
+            fruitMap.put(fruits[j], fruitMap.getOrDefault(fruits[j], 0) + 1);
 
-            if (fruit == type1 || fruit == type2) {
-                cur++;
-            } 
-            else {
-                cur = lastCount + 1;
+            // While more than 2 types of fruits are in the map, move the left pointer
+            if (fruitMap.size() > 2) {
+                fruitMap.put(fruits[i], fruitMap.get(fruits[i]) - 1);
+                if (fruitMap.get(fruits[i]) == 0) {
+                    fruitMap.remove(fruits[i]);
+                }
+                i++; // Move the left pointer to the right
             }
 
-            if (fruit == type2) {
-                lastCount++;
-            } 
-            else {
-                lastCount = 1;
-                type1 = type2;
-                type2 = fruit;
-            }
+            // Calculate the maximum count of fruits collected
+            count = Math.max(count, j - i + 1);
 
-            ans = Math.max(ans, cur);
+            // Move the right pointer to the right
+            j++;
         }
-
-        return ans;
+        return count;
     }
 }
