@@ -415,6 +415,7 @@
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -443,6 +444,7 @@
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
@@ -579,6 +581,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
@@ -658,6 +661,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0100-same-tree) |
@@ -740,6 +744,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
