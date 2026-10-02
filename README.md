@@ -267,6 +267,7 @@
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -379,6 +380,7 @@
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
@@ -515,6 +517,7 @@
 | [0402-remove-k-digits](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0678-valid-parenthesis-string) |
 | [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
@@ -778,6 +781,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0561-array-partition) |
 ## Randomized
 |  |
 | ------- |
