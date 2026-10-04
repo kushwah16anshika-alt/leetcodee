@@ -292,6 +292,7 @@
 | [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -348,6 +349,7 @@
 | [0904-fruit-into-baskets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -464,6 +466,7 @@
 | [0836-rectangle-overlap](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1154-day-of-the-year) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1323-maximum-69-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1360-number-of-days-between-two-dates) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -505,6 +508,7 @@
 | [0303-range-sum-query-immutable](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3904-smallest-stable-index-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -555,6 +559,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
