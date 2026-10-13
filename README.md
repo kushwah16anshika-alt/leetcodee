@@ -314,6 +314,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3904-smallest-stable-index-ii) |
@@ -395,6 +396,7 @@
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -538,6 +540,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Ordered Set
 |  |
 | ------- |
