@@ -307,6 +307,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2097-valid-arrangement-of-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -396,6 +397,7 @@
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -504,6 +506,7 @@
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1539-kth-missing-positive-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
