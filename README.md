@@ -464,6 +464,7 @@
 | [0189-rotate-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -925,4 +926,24 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
