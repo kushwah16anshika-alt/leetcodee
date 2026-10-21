@@ -176,6 +176,7 @@
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
