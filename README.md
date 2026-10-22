@@ -27,6 +27,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1106-parsing-a-boolean-expression) |
 ## Two Pointers
@@ -466,6 +467,7 @@
 | [0224-basic-calculator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
