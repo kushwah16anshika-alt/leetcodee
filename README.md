@@ -173,6 +173,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -480,6 +481,7 @@
 | [1323-maximum-69-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1323-maximum-69-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1360-number-of-days-between-two-dates) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2409-count-days-spent-together](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3658-gcd-of-odd-and-even-sums) |
