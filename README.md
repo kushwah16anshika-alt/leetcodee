@@ -320,6 +320,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3875-construct-uniform-parity-array-i) |
@@ -693,6 +694,7 @@
 | [2097-valid-arrangement-of-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2097-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -760,6 +762,7 @@
 | [1254-number-of-closed-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -781,6 +784,7 @@
 | [1254-number-of-closed-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -823,6 +827,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
