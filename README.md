@@ -187,6 +187,7 @@
 | [0067-add-binary](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
@@ -269,6 +270,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
