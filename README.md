@@ -276,6 +276,7 @@
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0641-design-circular-deque) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -542,6 +543,7 @@
 | [0455-assign-cookies](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0678-valid-parenthesis-string) |
 | [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
