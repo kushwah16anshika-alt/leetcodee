@@ -163,6 +163,7 @@
 | [0649-dota2-senate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0686-repeated-string-match) |
+| [0748-shortest-completing-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0748-shortest-completing-word) |
 | [0844-backspace-string-compare](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0844-backspace-string-compare) |
 | [0936-stamping-the-sequence](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0936-stamping-the-sequence) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0990-satisfiability-of-equality-equations) |
@@ -285,6 +286,7 @@
 | [0724-find-pivot-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0748-shortest-completing-word) |
 | [0867-transpose-matrix](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
@@ -362,6 +364,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
+| [0748-shortest-completing-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
