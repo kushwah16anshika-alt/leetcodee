@@ -324,6 +324,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2747-count-zero-request-servers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2747-count-zero-request-servers) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -371,6 +372,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2747-count-zero-request-servers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
@@ -414,6 +416,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -593,6 +596,7 @@
 | [0904-fruit-into-baskets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
 |  |
