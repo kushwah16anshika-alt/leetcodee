@@ -253,6 +253,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
@@ -353,6 +354,7 @@
 | [0187-repeated-dna-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0290-word-pattern) |
@@ -394,6 +396,7 @@
 | [0164-maximum-gap](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0274-h-index) |
@@ -578,6 +581,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -996,4 +1000,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0278-first-bad-version) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
