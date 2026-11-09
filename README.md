@@ -195,6 +195,7 @@
 | [0946-validate-stack-sequences](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1701-average-waiting-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1701-average-waiting-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -315,6 +316,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1701-average-waiting-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1701-average-waiting-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -578,6 +580,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Counting
 |  |
 | ------- |
@@ -884,6 +887,7 @@
 | [0743-network-delay-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0743-network-delay-time) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Bucket Sort
 |  |
 | ------- |
