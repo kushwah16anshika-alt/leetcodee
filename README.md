@@ -367,6 +367,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
@@ -494,6 +495,7 @@
 | [0292-nim-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -849,6 +851,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0398-random-pick-index) |
 ## Union-Find
 |  |
 | ------- |
@@ -1013,4 +1016,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0229-majority-element-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
