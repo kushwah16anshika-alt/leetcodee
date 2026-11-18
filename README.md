@@ -179,6 +179,7 @@
 | [2409-count-days-spent-together](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2788-split-strings-by-separator](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2788-split-strings-by-separator) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3863-minimum-operations-to-sort-a-string) |
