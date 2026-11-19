@@ -321,6 +321,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1672-richest-customer-wealth](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1701-average-waiting-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -827,6 +828,7 @@
 | [1254-number-of-closed-islands](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
