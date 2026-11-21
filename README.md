@@ -296,6 +296,7 @@
 | [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0909-snakes-and-ladders) |
@@ -380,6 +381,7 @@
 | [0496-next-greater-element-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0525-contiguous-array) |
 | [0748-shortest-completing-word](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0748-shortest-completing-word) |
+| [0888-fair-candy-swap](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1110-delete-nodes-and-return-forest) |
@@ -423,6 +425,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-advantage-shuffle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0888-fair-candy-swap) |
 | [0948-bag-of-tokens](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0976-largest-perimeter-triangle) |
@@ -549,6 +552,7 @@
 | [0493-reverse-pairs](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/0888-fair-candy-swap) |
 | [1268-search-suggestions-system](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1268-search-suggestions-system) |
 | [1539-kth-missing-positive-number](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2089-find-target-indices-after-sorting-array) |
