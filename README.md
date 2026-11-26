@@ -204,6 +204,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -523,6 +524,7 @@
 | [2409-count-days-spent-together](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
