@@ -347,6 +347,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
@@ -484,6 +485,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3693-climbing-stairs-ii](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kushwah16anshika-alt/leetcodee/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Ordered Set
 |  |
 | ------- |
